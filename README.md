@@ -6,10 +6,14 @@
 
 An android application built for women saftey, it tracks the location of the user, in order to provide help as soon as possible in the case of any emergency.
 
-# Features
  Will be updating soon..
  Stay Tuned!!
- 
+
+# Features
+- Location Tracking
+- Location Sharing
+- Emergency Calling
+- Period Tracker
  
 # Contributors
 
