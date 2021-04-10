@@ -1,6 +1,6 @@
 <p align="center">
   <img src=" https://github.com/Blitzcoder01/WomenSafetyAppHack36/blob/main/Made-at-Hack-36.png">
-   <img src="https://github.com/Blitzcoder01/WomenSafetyAppHack36/blob/main/secure.png">
+  
  </p>
 
 
