@@ -22,6 +22,7 @@ It tracks the location of the user, in order to provide help as soon as possible
 
 # Contributors:
 
+TEAM NAME: <b>GoalDiggers</b>
 - [Riya Mathur](https://github.com/Blitzcoder01)
 - [Neha Adnekar](https://github.com/Nehaadnekar)
 
