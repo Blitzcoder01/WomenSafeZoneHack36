@@ -21,6 +21,12 @@ It tracks the location of the user, in order to provide help as soon as possible
 # Technology Stack:
 -Android Development Using Java
 
+# Demo Video Link:
+https://drive.google.com/file/d/1yaFc0ujDPH-4xt7Lt0o9CzqJ1Sv2-kFy/view?usp=sharing
+
+# Presentation Link:
+https://drive.google.com/file/d/1ubPRk5Fv573jd-58LTLwBlZKkFGFnsEy/view?usp=sharing
+
 # Contributors:
 
 TEAM NAME: <b>GoalDiggers</b>
