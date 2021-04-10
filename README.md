@@ -31,7 +31,7 @@ TEAM NAME: <b>GoalDiggers</b>
  
 # Layout:
 ![](imgg1.jpg)  ![](imgg2.jpg)  ![](imgg3.jpg)   ![](imgg4.jpg)  
-![](imgg5.jpg)  ![](imgg6.jpg)  ![](imgg7.jng)  
+![](imgg5.jpg)  ![](imgg6.jpg)  ![](imgg7.jpg)  
 
 # Contacts:
 Feel free to contact us if you have any further queries, at:
