@@ -7,6 +7,7 @@
 # Women SafeZone - An Application for Women Safety
 <b>INTRODUCTION </b>
 
+A complete women safety mechanism is required, to make the country more safe for women. For fulfulling one of those aspects, we have came up with a project- Women SafeZone.  
 Women SafeZone is an android application built for women saftey.
 It tracks the location of the user, in order to provide help as soon as possible in the case of any emergency.
 
@@ -19,7 +20,7 @@ It tracks the location of the user, in order to provide help as soon as possible
 # Technology Stack:
 -Android Development Using Java
 
-# Contributors
+# Contributors:
 
 - [Riya Mathur](https://github.com/Blitzcoder01)
 - [Neha Adnekar](https://github.com/Nehaadnekar)
@@ -27,7 +28,7 @@ It tracks the location of the user, in order to provide help as soon as possible
 # Made at:
  <img src = "https://github.com/Blitzcoder01/WomenSafetyAppHack36/blob/main/Made-at-Hack-36.png?raw=true" >
  
-# Contacts
+# Contacts:
 Feel free to contact us if you have any further queries, at:
 <riya.mathur_cs18@gla.ac.in>, 
 <neha.adnekar_cs18@gla.ac.in>, 
