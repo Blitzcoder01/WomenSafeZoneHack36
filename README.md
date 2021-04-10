@@ -30,8 +30,8 @@ TEAM NAME: <b>GoalDiggers</b>
  <img src = "https://github.com/Blitzcoder01/WomenSafetyAppHack36/blob/main/Made-at-Hack-36.png?raw=true" >
  
 # Layout:
-![](img1.jng)  ![](img2.jpg)  ![](img3.jpg)   ![](img4.jpg)  
-![](img5.jpg)   [](img6.jpg)  ![](img7.jng)  
+![](imgg1.jng)  ![](imgg2.jpg)  ![](imgg3.jpg)   ![](imgg4.jpg)  
+![](imgg5.jpg)   [](imgg6.jpg)  ![](imgg7.jng)  
 
 # Contacts:
 Feel free to contact us if you have any further queries, at:
